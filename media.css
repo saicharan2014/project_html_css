@@ -954,7 +954,7 @@
     justify-content: space-between;
     flex-direction: column;
     align-items: center;
-    color: rgb(255, 255, 255, 0 8);
+    color: rgb(255, 255, 255, 0.7);
   }
   .upper_left_in_cnt_img_h2_cnt {
     height: 25%;
